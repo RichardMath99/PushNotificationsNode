@@ -15,8 +15,8 @@ Antes de iniciar, certifique-se de ter as seguintes dependências instaladas:
 1. Clone o repositório e navegue até o diretório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/RichardMath99/PushNotificationsNode
+   cd PushNotificationsNode
    ```
 
 2. Instale as dependências:
